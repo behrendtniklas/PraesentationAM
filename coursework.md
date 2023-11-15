@@ -1,14 +1,10 @@
----
----
-
-# Die Revolution der Unternehmensführung: Holakratie
+# Holakratie
 
 ---
 
 ## Warum Veränderung notwendig ist
 
-"85% der Mitarbeiter weltweit fühlen sich nicht engagiert bei ihrer Arbeit." [^1]
-[^1]: Gallup's State of the Global Workplace Report
+"85% der Mitarbeiter weltweit fühlen sich nicht engagiert bei ihrer Arbeit."
 
 ---
 
@@ -104,9 +100,9 @@ Holakratie bietet eine flexible und effiziente Alternative zu traditionellen hie
 
 ---
 
-## Ihre Gedanken und Fragen
-
 ## Ich lade Sie ein, Ihre Gedanken zu teilen und Fragen zu stellen.
+
+---
 
 ## Quellen
 
