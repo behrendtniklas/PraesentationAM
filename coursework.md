@@ -1,6 +1,6 @@
 ---
-marp: true
-theme: default
+marp:true
+theme:default
 ---
 
 # Die Revolution der Unternehmensführung: Holakratie
