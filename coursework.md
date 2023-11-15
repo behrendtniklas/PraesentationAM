@@ -62,7 +62,7 @@ Holakratie ist ein System der Organisationsführung, das herkömmliches Manageme
 
 ## Holakratie in der Praxis
 
-### Merzedes-Benz.io GmbH
+### Mercedes-Benz.io GmbH
 
 - Branche: EDV/IT
 - Mitarbeiterzahl: 220
